@@ -14,10 +14,7 @@
 #projects h2 {
   color: #ffff;
 }
-#contact button {
-  background-color: #202528;
-  color: #ffff;
-}
+
 footer p {
   background-color: #202528;
   color: #fff;
@@ -26,4 +23,12 @@ footer p {
 }
 section {
   padding-top: 5rem;
+}
+#btn-kirim {
+  background-color: #202528;
+  color: #ffff;
+}
+#btn-loading {
+  background-color: #202528;
+  color: #ffff;
 }
